@@ -1,6 +1,6 @@
 
 class CashRegister
-  def initialize(age = 0)
-    @age = age
+  def initialize(total = 0)
+    @total = total
   end
 end
